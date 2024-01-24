@@ -1,0 +1,4 @@
+terraform-state-locking
+*.terraform
+*.tfstate.*
+*.tfstate
